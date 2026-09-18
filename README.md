@@ -1,20 +1,6 @@
 ## Hi, I'm Abdullah 👋
 
-Computer Science graduate (GUtech, Oman) working in data engineering and AI.
-Currently a Data Engineer Trainee at **Rihal**, building on internships at
-**Oman LNG**, **PDO**, **E&E Business Solutions**, and **RWTH Aachen University**.
-
-I mostly work on turning messy operational data into something people can
-actually make decisions with — pipelines, dashboards, and the occasional
-full-stack app around them.
-
-- 🔭 **Now:** SQL modelling and dbt transformations at Rihal
-- 🌱 **Learning:** dbt, data warehouse design, applied ML
-- 💬 **Ask me about:** Python + Flask/FastAPI backends, Power BI, VBA automation
-- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/abdullahtalalalriyami) · riyami3000@hotmail.com
-- 🌍 Muscat, Oman · Arabic (native), English (IELTS), German (A1)
-
----
+Whatever comes to mind ends up here
 
 ### Tech
 
