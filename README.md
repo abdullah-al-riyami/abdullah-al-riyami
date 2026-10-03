@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Abdullah 👋</h1>
-
 <p align="center">
-  <em>Whatever comes to mind ends up here.</em>
+  <img src="banner.svg" width="100%" alt="Hi, I'm Abdullah. Whatever comes to mind ends up here.">
 </p>
 
 ---
@@ -32,3 +30,12 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+</p>
